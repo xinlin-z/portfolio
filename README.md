@@ -4,7 +4,7 @@ Below are some projects I did before or recently, listed chronologically.
 
 ## Technical Blog
 
-[Xinlin's Blog](https://xinlin-z.github.io)
+* [Xinlin's Blog](https://xinlin-z.github.io)
 
 ## Python
 
