@@ -2,6 +2,10 @@
 
 Below are some projects I did before or recently, listed chronologically.
 
+## Technical Blog
+
+[Xinlin's Blog](https://xinlin-z.github.io)
+
 ## Python
 
 * [portfly](https://github.com/xinlin-z/portfly), remote/local port forwarding by TCP/UDP tunnel (Python)
