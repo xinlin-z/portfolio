@@ -9,7 +9,7 @@ Below are some projects I did before or recently, listed chronologically.
 ## Hobby Projects
 
 * [portfly](https://github.com/xinlin-z/portfly), remote/local port forwarding by TCP/UDP tunnel (Python)
-* [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp command (Python)
+* [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp commands in Linux (Python)
 * [smally](https://github.com/xinlin-z/smally), compress JPG,PNG,GIF in batch and parallel mode (Python, Shell, SQLite)
 
 ## Courseworks in AUT (Python, PyTorch)
