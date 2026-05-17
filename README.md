@@ -15,7 +15,7 @@ Below are some projects I did before or recently, listed chronologically.
 ## Courseworks in AUT (Python, PyTorch)
 
 * **Robustness Comparison between Basic CNN, ResNet and ViT on Small Scale Dataset**, coursework, [paper](https://www.overleaf.com/read/sxfhrgcchbwb#b3e181), [TinyViT code](https://www.kaggle.com/code/xinlinz/tinyvit)
-* Using self-hosted LLM to interpret and record cooking information, IoT coursework, [code](https://github.com/xinlin-z/iot2025s2)
+* Using self-hosted LLM to automatically interpret and record cooking information while cooking, IoT coursework, [code](https://github.com/xinlin-z/iot2025s2)
 * **Search CNN Block by Genetic Algorithm**, coursework, employ GA to search CNN blocks and get insights into CNN architecture, [code](https://www.kaggle.com/code/xinlinz/ga-cnn-node3-b4)
 * [Transformer](https://colab.research.google.com/drive/109BNSj6rjewtiqJejC-4AED3ddm6OxIe?usp=sharing), personal, build a transformer model, tokenize price information, and adopt greedy decoding only to predict price trend of bitcoin
 * [LSTM](https://colab.research.google.com/drive/1NIHWiUFyN7Xcto3q0lKjud4wnolMKJ0R?usp=sharing), coursework, build a simple LSTM model to predict waterlevel
