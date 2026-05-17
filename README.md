@@ -12,7 +12,7 @@ Below are some projects I did before or recently, listed chronologically.
 * [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp command (Python)
 * [smally](https://github.com/xinlin-z/smally), compress JPG,PNG,GIF in batch and parallel mode (Python, Shell, SQLite)
 
-## Courseworks in AUT
+## Courseworks in AUT (Python, PyTorch)
 
 * **Robustness Comparison between Basic CNN, ResNet and ViT on Small Scale Dataset**, coursework, [paper](https://www.overleaf.com/read/sxfhrgcchbwb#b3e181), [TinyViT code](https://www.kaggle.com/code/xinlinz/tinyvit)
 * Using self-hosted LLM to interpret and record cooking information, IoT coursework, [code](https://github.com/xinlin-z/iot2025s2)
