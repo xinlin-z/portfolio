@@ -4,7 +4,7 @@ Below are some projects I did before or recently, listed chronologically.
 
 ## Technical Blog
 
-* [Xinlin's Blog](https://xinlin-z.github.io), high-quality blogs for recap and reference written without AI.
+* [Xinlin's Blog](https://xinlin-z.github.io), high-quality blogs for recap and reference written by human.
 
 ## Hobby Projects
 
