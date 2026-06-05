@@ -14,6 +14,7 @@ Below are some projects I did before or recently, listed chronologically.
 
 ## Courseworks in AUT (Python, PyTorch)
 
+* Adaptive Dynamic Channel Pruning based on Global Context Learning and Sparsity-Aware Normalization, dissertation, [code](https://github.com/xinlin-z/AdaDCP)
 * **Robustness Comparison between Basic CNN, ResNet and ViT on Small Scale Dataset**, coursework, [paper](https://www.overleaf.com/read/sxfhrgcchbwb#b3e181), [TinyViT code](https://www.kaggle.com/code/xinlinz/tinyvit)
 * Using self-hosted LLM to automatically interpret and record cooking information while cooking, IoT coursework, [code](https://github.com/xinlin-z/iot2025s2)
 * **Search CNN Block by Genetic Algorithm**, coursework, employ GA to search CNN blocks and get insights into CNN architecture, [code](https://www.kaggle.com/code/xinlinz/ga-cnn-node3-b4)
