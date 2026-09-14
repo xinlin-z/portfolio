@@ -4,11 +4,11 @@ Below are some projects I did before or recently, listed chronologically.
 
 ## Technical Blog
 
-* [Xinlin's Blog](https://xinlin-z.github.io), high-quality blogs for recap and reference written by human.
+* [Xinlin's Blog](https://xinlin-z.github.io), blogs for recap and reference written by human.
 
 ## Hobby Projects
 
-* a POS application with rich data analysis features for the dairy shop on No.195 Symonds Street Auckland (Python, Qt, SQLite)
+* private: a POS application with rich data analysis features for the dairy shop at No.195 Symonds Street Auckland (Python, Qt, SQLite)
 * [portfly](https://github.com/xinlin-z/portfly), remote/local port forwarding by TCP/UDP tunnel (Python)
 * [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp commands in Linux (Python)
 * [smally](https://github.com/xinlin-z/smally), compress JPG,PNG,GIF in batch and parallel mode (Python, Shell, SQLite)
