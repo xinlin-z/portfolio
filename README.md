@@ -8,13 +8,14 @@ Below are some projects I did before or recently, listed chronologically.
 
 ## Hobby Projects
 
+* a POS application with rich data analysis features for the dairy shop on No.195 Symonds Street Auckland (Python, Qt, SQLite)
 * [portfly](https://github.com/xinlin-z/portfly), remote/local port forwarding by TCP/UDP tunnel (Python)
 * [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp commands in Linux (Python)
 * [smally](https://github.com/xinlin-z/smally), compress JPG,PNG,GIF in batch and parallel mode (Python, Shell, SQLite)
 
 ## Courseworks in AUT (Python, PyTorch)
 
-**Straight-A, GPA: 7.62**
+**First-Class Honor, Straight-A, GPA: 7.62**
 
 * Adaptive Dynamic Channel Pruning based on Global Context Learning and Sparsity-Aware Normalization, dissertation, [code](https://github.com/xinlin-z/AdaDCP)
 * **Robustness Comparison between Basic CNN, ResNet and ViT on Small Scale Dataset**, coursework, [paper](https://www.overleaf.com/read/sxfhrgcchbwb#b3e181), [TinyViT code](https://www.kaggle.com/code/xinlinz/tinyvit)
