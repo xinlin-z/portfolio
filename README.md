@@ -8,8 +8,9 @@ Below are some projects I did before or recently, listed in reverse chronologica
 
 ## Projects
 
-- [POS App], private, support business running and with rich data analysis features for the dairy shop at No.195 Symonds Street Auckland (Python, Qt, SQLite)
+- [POS App], private, support business running and with rich data analysis features for the dairy shop at No.195 Symonds Street Auckland (Python, Qt, SQLite, SQL)
 - [portfly](https://github.com/xinlin-z/portfly), remote/local port forwarding by TCP/UDP tunnel (Python)
+- [ringbb](https://github.com/xinlin-z/ringbb), ring byte buffer library in C (C)
 - [autopass](https://github.com/xinlin-z/autopass), automatically enter password for sudo, ssh and scp commands in Linux (Python)
 - [smally](https://github.com/xinlin-z/smally), compress JPG,PNG,GIF in batch and parallel mode (Python, Shell, SQLite)
 
